@@ -1,2 +1,4 @@
 # hello-world
-hello-world repository(github exercise)
+
+hungry
+i need daehaksaeng chicken
